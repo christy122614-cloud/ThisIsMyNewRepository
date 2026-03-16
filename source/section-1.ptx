@@ -5,7 +5,7 @@
     <p>Some words</p>
   </introduction>
   <subsection xml:id="subsection-1">
-    <title>My First Subsection</title>
+    <title>My First First Subsection</title>
     <p>Some more words</p>
     <p>foo</p>
     <figure>
